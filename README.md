@@ -7,7 +7,7 @@ This is the "Iris" dataset. Originally published at [UCI Machine Learning Reposi
 
 The HTML page provides the basic code required to load the data and display it on the page (as JSON) using [D3.js](http://d3js.org/).
 
-<b>libraries used<b><br>
+<b>libraries used:<b><br>
   sklearn<br>
   pandas<br>
   numpy
